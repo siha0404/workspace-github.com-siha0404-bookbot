@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-print("greetings boots")
-=======
 from stats import word_counter, character_counter, full
 import sys
 
